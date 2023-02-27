@@ -1,0 +1,22 @@
+Variant: debug
+Config: debug
+Store: C:\Users\fsart\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 4D:14:F9:78:5C:AC:63:2D:F8:FC:B9:48:85:4B:18:6A
+SHA1: BA:2A:57:F6:53:3A:16:C7:48:8E:76:90:E4:87:CC:4D:BE:A6:CA:A1
+SHA-256: B7:E6:C6:5E:45:2C:AE:18:21:57:57:79:F1:BD:3F:5B:90:2B:DF:64:08:F5:BB:BF:E7:CC:26:E9:EA:21:CB:71
+Valid until: Tuesday, February 11, 2053
+----------
+Variant: release
+Config: null
+Store: null
+Alias: null
+----------
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\fsart\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 4D:14:F9:78:5C:AC:63:2D:F8:FC:B9:48:85:4B:18:6A
+SHA1: BA:2A:57:F6:53:3A:16:C7:48:8E:76:90:E4:87:CC:4D:BE:A6:CA:A1
+SHA-256: B7:E6:C6:5E:45:2C:AE:18:21:57:57:79:F1:BD:3F:5B:90:2B:DF:64:08:F5:BB:BF:E7:CC:26:E9:EA:21:CB:71
+Valid until: Tuesday, February 11, 2053
