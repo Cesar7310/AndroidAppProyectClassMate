@@ -30,3 +30,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(binding.root)
     }
 
+
+app:tint="@color/white"     -----> Sentencia que permite poner un logo del color x 
+
+window.decorView.systemUiVisibility = View.SYSTEM_UI_FLAG_FULLSCREEN 
